@@ -2,7 +2,7 @@
 
 Python ile basit görüntü işleme işlemleri yapıldı.
 
-##Boyama.py
+## Boyama.py
 Alınan resmin belli bir noktasını renklendirebilmek veya düz renkli çizgiler çizmek amacıyla kullanıldı.
 
 ##Effect.py
